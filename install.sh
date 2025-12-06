@@ -16,9 +16,9 @@ NC='\033[0m'
 INSTALL_PASSWORD="socks"
 
 # 默认配置参数
-SOCKS_PORT="87"
-SOCKS_USER="xy8395"
-SOCKS_PASS="xy8395"
+SOCKS_PORT="18363"
+SOCKS_USER="adkslwxjjdwl667min"
+SOCKS_PASS="ad37386qidfpamin"
 XRAY_VERSION="1.8.11"
 
 # 全局变量
